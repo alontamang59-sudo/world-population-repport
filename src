@@ -1,0 +1,10 @@
+world-population-report
+│
+├── src
+├── docs
+├── sql
+├── tests
+├── Dockerfile
+├── docker-compose.yml
+├── README.md
+└── .gitignore
